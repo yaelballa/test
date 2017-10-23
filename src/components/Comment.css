@@ -1,0 +1,21 @@
+.comment {
+    padding: 10px;
+    border-bottom: 1px solid #EFEFEF;
+    display: flex;
+}
+
+.title {
+    color: #333333;
+}
+
+.text {
+    color: #ABABAB;
+}
+
+.data {
+    flex-grow: 1;
+}
+
+.button {
+    color: #ABABAB;
+}
